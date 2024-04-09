@@ -13,10 +13,12 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # Data Analyst
 
 1.Built a predictive machine learning model to calculate customer lifetime value, resulting in a 30% increase in customer retention.
+
 2.Instituted a real-time data visualizing system using D3.js that improved process transparency by 50%.
 
 ## Data Analyst Intern
 1.Pioneered the use of advanced time series forecasting models to increase advertising efficiency, resulting in a 45% reduction in CPC.
+
 2.Managed the extractions of 5TB data using SQL, streamlining business intelligence reporting by 40%.
 
 ### Research Intern
@@ -39,11 +41,13 @@ end
 #### Data Analytics Associate
 
 1.Built a predictive machine learning model to calculate customer lifetime value, resulting in a 30% increase in customer retention.
+
 2.Instituted a real-time data visualizing system using D3.js that improved process transparency by 50%.
 
 ##### Data Analytics Associate
 
 1.Instituted a real-time data visualizing system using D3.js that improved process transparency by 50%.
+
 2.Facilitated weekly trainings in R and Python, bolstering team proficiency by 60% in coding skills.
 
 ###### OTHER
