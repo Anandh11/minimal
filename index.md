@@ -10,17 +10,16 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Data Analyst
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+*Built a predictive machine learning model to calculate customer lifetime value, resulting in a 30% increase in customer retention.
+*Instituted a real-time data visualizing system using D3.js that improved process transparency by 50%.
 
-## Header 2
+## Data Analyst Intern
+*Pioneered the use of advanced time series forecasting models to increase advertising efficiency, resulting in a 45% reduction in CPC.
+*Managed the extractions of 5TB data using SQL, streamlining business intelligence reporting by 40%.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
+### Research Intern
 
 ```js
 // Javascript code with syntax highlighting.
@@ -37,19 +36,17 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### Header 4
+#### Data Analytics Associate
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*Built a predictive machine learning model to calculate customer lifetime value, resulting in a 30% increase in customer retention.
+*Instituted a real-time data visualizing system using D3.js that improved process transparency by 50%.
 
-##### Header 5
+##### Data Analytics Associate
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+*Instituted a real-time data visualizing system using D3.js that improved process transparency by 50%.
+*Facilitated weekly trainings in R and Python, bolstering team proficiency by 60% in coding skills.
 
-###### Header 6
+###### OTHER
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
